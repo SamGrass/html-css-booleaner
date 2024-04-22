@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
 }
 
 /* style header */
@@ -24,4 +23,28 @@ header img{
 
 main{
     margin: 5px;
+}
+
+.blocco-main{
+    margin-top: 15px;
+}
+
+/* style main-title sottotitolo */
+h1{
+    font-size: 32px;
+}
+.sottotitolo{
+    color: #919191;
+}
+#booleaner-blue{
+    color: #59beea;
+}
+
+/* style testo foto-tim */
+.foto-tim span{
+    font-size: 10px;
+}
+
+.testo-giallo{
+    background-color: yellow;
 }
